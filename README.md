@@ -19,10 +19,8 @@ A modern and fully functional calculator built using **HTML**, **CSS**, and **Ja
 - Full parentheses support `(` and `)` with proper evaluation
 - Square root √ for the last number or an entire expression inside parentheses
 - Displays a live **History** of previous calculations
-- Elegant **Glassmorphism** effect with a toggle button
 - Built-in **Dark Mode** toggle
 - One `Toggle Style` button to switch between:
-  - Normal ↔ Glass
   - Light ↔ Dark
 - Automatically saves user preferences in `localStorage`
 - Keyboard-friendly input support
@@ -39,7 +37,6 @@ A modern and fully functional calculator built using **HTML**, **CSS**, and **Ja
    - The last number, or
    - The full expression inside the nearest parentheses
 5. Click `Toggle Style` to switch:
-   - Glass Mode ↔ Normal Mode
    - Light Mode ↔ Dark Mode
 6. Your theme settings are automatically saved.
 7. Each result appears in the **history panel** below the calculator.
