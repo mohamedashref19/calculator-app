@@ -1,0 +1,49 @@
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title> Calculator</title>
+      <link rel="stylesheet" href="main.css" />
+    </head>
+    <body>
+      <div class="top-controls">
+        <button id="toggle-dark">Dark Mode</button>
+      </div>
+      <div class="calculator">
+        <input type="text" id="display" readonly />
+        <div class="buttons">
+          <button>7</button>
+          <button>8</button>
+          <button>9</button>
+          <button>/</button>
+
+          <button>4</button>
+          <button>5</button>
+          <button>6</button>
+          <button>*</button>
+
+          <button>1</button>
+          <button>2</button>
+          <button>3</button>
+          <button>-</button>
+
+          <button>0</button>
+          <button>.</button>
+          <button>C</button>
+          <button class="span-two">+</button>
+          <button>(</button>
+          <button>)</button>
+          <button>√</button>
+          <button>=</button>
+        </div>
+      </div>
+      <div class="history-box">
+        <h3>History</h3>
+        <ul id="history-list"></ul>
+        <button id="clear-history">Clear History</button>
+      </div>
+
+      <script src="main.js"></script>
+    </body>
+  </html>
