@@ -45,7 +45,7 @@ A modern and fully functional calculator built using **HTML**, **CSS**, and **Ja
 
 ## Live Demo 🌐
 
-👉 [Click to Try Calculator](https://mohamedashref19.github.io/stylish-calculator/)
+👉 [Click to Try Calculator](https://mohamedashref19.github.io/calculator-app/)
 
 ---
 
